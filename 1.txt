@@ -13,4 +13,7 @@ This is a fifth commit from local
 this is a message from remote repository
 
 
-This is a fifth commit from local
+This is a sixth commit from local
+
+
+This is a seventh commit from local
